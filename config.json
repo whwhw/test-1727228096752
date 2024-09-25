@@ -1,4 +1,28 @@
 {
-    "workspace": {},
+    "workspace": {
+        "tree": {
+            "id": "test-1727228096752",
+            "name": "test-1727228096752",
+            "namespace": "",
+            "type": "namespace",
+            "children": [
+                {
+                    "id": "a0bfdb84-10d9-4cae-a2db-6dc26b1dd16c",
+                    "name": "f1",
+                    "namespace": "test-1727228096752",
+                    "type": "function",
+                    "children": null,
+                    "version": {
+                        "id": "89734a14-822b-4a0f-bcab-82213d284406",
+                        "name": "0.1"
+                    }
+                }
+            ],
+            "version": {
+                "id": "",
+                "name": ""
+            }
+        }
+    },
     "export": {}
 }
